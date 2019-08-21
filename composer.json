@@ -1,0 +1,8 @@
+{
+    "name": "jeffrey/im",
+    "description": "a im demo.",
+    "require": {},
+    "require-dev": {
+        "swoole/ide-helper": "~4.4.3"
+    }
+}
